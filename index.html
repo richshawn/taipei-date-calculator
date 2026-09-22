@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#0b1220" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="日期計算器" />
+  <meta name="description" content="以台北時間與台股交易日規則為核心的工作日／日曆日日期計算器，附美日中重要宏觀事件提醒。" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>日期計算器｜台北時間</title>
+</head>
+<body>
+  <main class="app-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">TAIPEI · MARKET CALENDAR</p>
+        <h1>日期計算器</h1>
+        <p class="hero-sub">工作日 × 日曆日 × 國際事件</p>
+      </div>
+      <div class="clock" aria-label="台北時間">
+        <strong id="taipeiTime">--:--</strong>
+        <span>台北時間</span>
+      </div>
+    </header>
+
+    <section class="status-line" aria-live="polite">
+      <span class="status-dot"></span>
+      <span id="dataStatus">載入行事曆資料…</span>
+    </section>
+
+    <section class="panel calculator-panel">
+      <div class="segmented" role="tablist" aria-label="輸入模式">
+        <button class="seg active" id="tabAdd" data-mode="add" role="tab" aria-selected="true">起算日 ＋ 天數</button>
+        <button class="seg" id="tabRange" data-mode="range" role="tab" aria-selected="false">起訖日期</button>
+      </div>
+
+      <div class="form-grid" id="addMode">
+        <label class="field">
+          <span>起算日期</span>
+          <input id="startDateAdd" type="date" />
+        </label>
+        <label class="field">
+          <span>天數</span>
+          <div class="number-wrap">
+            <input id="daysInput" type="number" min="0" step="1" inputmode="numeric" value="10" />
+            <span>天</span>
+          </div>
+        </label>
+      </div>
+
+      <div class="form-grid hidden" id="rangeMode">
+        <label class="field">
+          <span>起算日期</span>
+          <input id="startDateRange" type="date" />
+        </label>
+        <label class="field">
+          <span>到期日期</span>
+          <input id="endDateRange" type="date" />
+        </label>
+      </div>
+
+      <div class="rule-row">
+        <span class="rule-label">計算規則</span>
+        <div class="mini-toggle" id="ruleToggle">
+          <button class="active" data-rule="exclude">不含起算日</button>
+          <button data-rule="include">含起算日</button>
+        </div>
+      </div>
+
+      <button class="primary" id="calculateBtn">計算</button>
+      <p class="helper" id="ruleHelp">預設：起算日不列入第 1 天；往後第 N 天為答案。</p>
+    </section>
+
+    <section id="errorBox" class="error hidden" role="alert"></section>
+
+    <section id="results" class="results hidden" aria-live="polite">
+      <div class="result-grid" id="resultGrid"></div>
+      <div id="dateContext"></div>
+    </section>
+
+    <section class="panel event-panel">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">MACRO WATCH</p>
+          <h2>美・日・中重要事件</h2>
+        </div>
+        <span class="coverage" id="eventCoverage">本週資料</span>
+      </div>
+      <div id="eventList" class="event-list">
+        <p class="empty">計算後，會自動對照答案日期與到期日。</p>
+      </div>
+    </section>
+
+    <details class="panel info-panel">
+      <summary>工作日如何定義？</summary>
+      <div class="info-copy">
+        <p><strong>工作日</strong>：週一至週五，並排除台灣政府放假日與臺灣證券交易所無交易日。</p>
+        <p><strong>日曆日</strong>：連續計算每一天，包含週末、國定假日與股市休市日。</p>
+        <p>國際提醒以台北時間顯示；美國、日本、中國的高重要度經濟數據、央行政策、重要官員談話與重大宏觀活動會優先列入。</p>
+      </div>
+    </details>
+
+    <footer>
+      <p>資料：DGPA ／ TWSE ／ WallstreetCN（自動更新）</p>
+      <p id="lastUpdated">資料時間：—</p>
+    </footer>
+  </main>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

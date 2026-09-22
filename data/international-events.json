@@ -1,0 +1,77 @@
+{
+  "updatedAt": "2026-09-22T07:55:00Z",
+  "timezone": "Asia/Taipei",
+  "coverage": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "source": {
+    "name": "華爾街見聞財經日曆／公開新聞交叉整理",
+    "url": "https://wallstreetcn.com/calendar"
+  },
+  "events": [
+    {
+      "id": "seed-us-adp-20260922",
+      "date": "2026-09-22",
+      "time": "時間待定",
+      "country": "US",
+      "importance": 2,
+      "title": "美國 ADP 週度就業變化",
+      "category": "employment"
+    },
+    {
+      "id": "seed-fed-speakers-20260922",
+      "date": "2026-09-22",
+      "time": "時間待定",
+      "country": "US",
+      "importance": 3,
+      "title": "多位聯準會官員公開談話（含 Williams、Jefferson、Barkin）",
+      "category": "speech"
+    },
+    {
+      "id": "seed-us-pmi-20260923",
+      "date": "2026-09-23",
+      "time": "時間待定",
+      "country": "US",
+      "importance": 3,
+      "title": "美國 9 月 S&P Global 製造業／服務業 PMI 初值",
+      "category": "macro"
+    },
+    {
+      "id": "seed-jp-pmi-20260924",
+      "date": "2026-09-24",
+      "time": "時間待定",
+      "country": "JP",
+      "importance": 2,
+      "title": "日本 9 月製造業／服務業 PMI 初值（市場關注）",
+      "category": "macro"
+    },
+    {
+      "id": "seed-us-claims-home-20260924",
+      "date": "2026-09-24",
+      "time": "時間待定",
+      "country": "US",
+      "importance": 2,
+      "title": "美國初領失業金人數、新屋銷售",
+      "category": "macro"
+    },
+    {
+      "id": "seed-us-cn-summit-20260924",
+      "date": "2026-09-24",
+      "time": "時間待定",
+      "country": "CN",
+      "importance": 3,
+      "title": "美中領袖會晤／峰會（宏觀與貿易政策關注）",
+      "category": "policy"
+    },
+    {
+      "id": "seed-us-durables-umich-20260925",
+      "date": "2026-09-25",
+      "time": "時間待定",
+      "country": "US",
+      "importance": 3,
+      "title": "美國耐久財訂單；密西根大學消費者信心終值",
+      "category": "macro"
+    }
+  ]
+}

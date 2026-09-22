@@ -1,0 +1,305 @@
+{
+  "updatedAt": "2026-09-22T07:55:00Z",
+  "timezone": "Asia/Taipei",
+  "coverage": [
+    2026,
+    2027
+  ],
+  "definition": "Workday = Monday-Friday excluding DGPA government holidays and TWSE market-closed dates.",
+  "sources": [
+    {
+      "name": "行政院人事行政總處（DGPA）",
+      "url": "https://www.dgpa.gov.tw/informationlist?uid=30"
+    },
+    {
+      "name": "臺灣證券交易所（TWSE）",
+      "url": "https://www.twse.com.tw/holidaySchedule/holidaySchedule?response=html"
+    }
+  ],
+  "days": {
+    "2026-01-01": {
+      "governmentHoliday": true,
+      "governmentName": "中華民國開國紀念日",
+      "marketClosed": true,
+      "marketName": "中華民國開國紀念日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-02-15": {
+      "governmentHoliday": true,
+      "governmentName": "農曆除夕及春節",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-02-16": {
+      "governmentHoliday": true,
+      "governmentName": "農曆除夕及春節",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-02-17": {
+      "governmentHoliday": true,
+      "governmentName": "農曆除夕及春節",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-02-18": {
+      "governmentHoliday": true,
+      "governmentName": "農曆除夕及春節",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-02-19": {
+      "governmentHoliday": true,
+      "governmentName": "農曆除夕及春節",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-02-20": {
+      "governmentHoliday": true,
+      "governmentName": "春節補假",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-02-27": {
+      "governmentHoliday": true,
+      "governmentName": "和平紀念日補假",
+      "marketClosed": true,
+      "marketName": "和平紀念日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-02-28": {
+      "governmentHoliday": true,
+      "governmentName": "和平紀念日",
+      "marketClosed": true,
+      "marketName": "和平紀念日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-04-03": {
+      "governmentHoliday": true,
+      "governmentName": "兒童節補假",
+      "marketClosed": true,
+      "marketName": "兒童節及民族掃墓節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-04-04": {
+      "governmentHoliday": true,
+      "governmentName": "兒童節",
+      "marketClosed": true,
+      "marketName": "兒童節及民族掃墓節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-04-05": {
+      "governmentHoliday": true,
+      "governmentName": "民族掃墓節",
+      "marketClosed": true,
+      "marketName": "兒童節及民族掃墓節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-04-06": {
+      "governmentHoliday": true,
+      "governmentName": "民族掃墓節補假",
+      "marketClosed": true,
+      "marketName": "兒童節及民族掃墓節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-05-01": {
+      "governmentHoliday": true,
+      "governmentName": "勞動節",
+      "marketClosed": true,
+      "marketName": "勞動節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-06-19": {
+      "governmentHoliday": true,
+      "governmentName": "端午節",
+      "marketClosed": true,
+      "marketName": "端午節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-09-25": {
+      "governmentHoliday": true,
+      "governmentName": "中秋節",
+      "marketClosed": true,
+      "marketName": "中秋節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-09-28": {
+      "governmentHoliday": true,
+      "governmentName": "孔子誕辰紀念日／教師節",
+      "marketClosed": true,
+      "marketName": "孔子誕辰紀念日／教師節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-10-09": {
+      "governmentHoliday": true,
+      "governmentName": "國慶日補假",
+      "marketClosed": true,
+      "marketName": "國慶日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-10-10": {
+      "governmentHoliday": true,
+      "governmentName": "國慶日",
+      "marketClosed": true,
+      "marketName": "國慶日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-10-25": {
+      "governmentHoliday": true,
+      "governmentName": "臺灣光復暨金門古寧頭大捷紀念日",
+      "marketClosed": true,
+      "marketName": "臺灣光復暨金門古寧頭大捷紀念日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-10-26": {
+      "governmentHoliday": true,
+      "governmentName": "光復節補假",
+      "marketClosed": true,
+      "marketName": "臺灣光復暨金門古寧頭大捷紀念日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-12-25": {
+      "governmentHoliday": true,
+      "governmentName": "行憲紀念日",
+      "marketClosed": true,
+      "marketName": "行憲紀念日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-01-01": {
+      "governmentHoliday": true,
+      "governmentName": "中華民國開國紀念日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-02-04": {
+      "governmentHoliday": true,
+      "governmentName": "小年夜",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-02-05": {
+      "governmentHoliday": true,
+      "governmentName": "農曆除夕",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-02-06": {
+      "governmentHoliday": true,
+      "governmentName": "春節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-02-07": {
+      "governmentHoliday": true,
+      "governmentName": "春節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-02-08": {
+      "governmentHoliday": true,
+      "governmentName": "春節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-02-09": {
+      "governmentHoliday": true,
+      "governmentName": "春節補假",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-02-10": {
+      "governmentHoliday": true,
+      "governmentName": "春節補假",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-02-28": {
+      "governmentHoliday": true,
+      "governmentName": "和平紀念日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-03-01": {
+      "governmentHoliday": true,
+      "governmentName": "和平紀念日補假",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-04-04": {
+      "governmentHoliday": true,
+      "governmentName": "兒童節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-04-05": {
+      "governmentHoliday": true,
+      "governmentName": "民族掃墓節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-04-06": {
+      "governmentHoliday": true,
+      "governmentName": "兒童節補假",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-04-30": {
+      "governmentHoliday": true,
+      "governmentName": "勞動節補假",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-05-01": {
+      "governmentHoliday": true,
+      "governmentName": "勞動節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-06-09": {
+      "governmentHoliday": true,
+      "governmentName": "端午節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-09-15": {
+      "governmentHoliday": true,
+      "governmentName": "中秋節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-09-28": {
+      "governmentHoliday": true,
+      "governmentName": "孔子誕辰紀念日／教師節",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-10-10": {
+      "governmentHoliday": true,
+      "governmentName": "國慶日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-10-11": {
+      "governmentHoliday": true,
+      "governmentName": "國慶日補假",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-10-25": {
+      "governmentHoliday": true,
+      "governmentName": "臺灣光復暨金門古寧頭大捷紀念日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-12-24": {
+      "governmentHoliday": true,
+      "governmentName": "行憲紀念日補假",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-12-25": {
+      "governmentHoliday": true,
+      "governmentName": "行憲紀念日",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2027-12-31": {
+      "governmentHoliday": true,
+      "governmentName": "2028 開國紀念日補假",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-02-12": {
+      "marketClosed": true,
+      "marketName": "市場無交易，僅辦理結算交割作業",
+      "source": "seed: DGPA/TWSE official schedules"
+    },
+    "2026-02-13": {
+      "marketClosed": true,
+      "marketName": "市場無交易，僅辦理結算交割作業",
+      "source": "seed: DGPA/TWSE official schedules"
+    }
+  }
+}
