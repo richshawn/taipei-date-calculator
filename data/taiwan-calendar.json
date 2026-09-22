@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T07:55:00Z",
+  "updatedAt": "2026-09-22T10:42:36.724196Z",
   "timezone": "Asia/Taipei",
   "coverage": [
     2026,
@@ -19,287 +19,1262 @@
   "days": {
     "2026-01-01": {
       "governmentHoliday": true,
-      "governmentName": "中華民國開國紀念日",
+      "governmentName": "開國紀念日",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "中華民國開國紀念日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "中華民國開國紀念日"
     },
     "2026-02-15": {
       "governmentHoliday": true,
-      "governmentName": "農曆除夕及春節",
+      "governmentName": "小年夜",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "農曆除夕及春節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "農曆除夕及春節"
     },
     "2026-02-16": {
       "governmentHoliday": true,
-      "governmentName": "農曆除夕及春節",
+      "governmentName": "農曆除夕",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "農曆除夕及春節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "農曆除夕及春節"
     },
     "2026-02-17": {
       "governmentHoliday": true,
-      "governmentName": "農曆除夕及春節",
+      "governmentName": "春節",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "農曆除夕及春節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "農曆除夕及春節"
     },
     "2026-02-18": {
       "governmentHoliday": true,
-      "governmentName": "農曆除夕及春節",
+      "governmentName": "春節",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "農曆除夕及春節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "農曆除夕及春節"
     },
     "2026-02-19": {
       "governmentHoliday": true,
-      "governmentName": "農曆除夕及春節",
+      "governmentName": "春節",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "農曆除夕及春節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "農曆除夕及春節"
     },
     "2026-02-20": {
       "governmentHoliday": true,
-      "governmentName": "春節補假",
+      "governmentName": "補假",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "農曆除夕及春節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "農曆除夕及春節"
     },
     "2026-02-27": {
       "governmentHoliday": true,
-      "governmentName": "和平紀念日補假",
+      "governmentName": "補假",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "和平紀念日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "和平紀念日"
     },
     "2026-02-28": {
       "governmentHoliday": true,
       "governmentName": "和平紀念日",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "和平紀念日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "和平紀念日"
     },
     "2026-04-03": {
       "governmentHoliday": true,
-      "governmentName": "兒童節補假",
+      "governmentName": "補假",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "兒童節及民族掃墓節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "兒童節及民族掃墓節"
     },
     "2026-04-04": {
       "governmentHoliday": true,
       "governmentName": "兒童節",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "兒童節及民族掃墓節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "兒童節及民族掃墓節"
     },
     "2026-04-05": {
       "governmentHoliday": true,
-      "governmentName": "民族掃墓節",
+      "governmentName": "清明節",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "兒童節及民族掃墓節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "兒童節及民族掃墓節"
     },
     "2026-04-06": {
       "governmentHoliday": true,
-      "governmentName": "民族掃墓節補假",
+      "governmentName": "補假",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "兒童節及民族掃墓節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "兒童節及民族掃墓節"
     },
     "2026-05-01": {
       "governmentHoliday": true,
       "governmentName": "勞動節",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "勞動節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "勞動節"
     },
     "2026-06-19": {
       "governmentHoliday": true,
       "governmentName": "端午節",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "端午節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "端午節"
     },
     "2026-09-25": {
       "governmentHoliday": true,
       "governmentName": "中秋節",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "中秋節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "中秋節"
     },
     "2026-09-28": {
       "governmentHoliday": true,
-      "governmentName": "孔子誕辰紀念日／教師節",
+      "governmentName": "孔子誕辰紀念日/教師節",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "孔子誕辰紀念日／教師節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "孔子誕辰紀念日/ 教師節"
     },
     "2026-10-09": {
       "governmentHoliday": true,
-      "governmentName": "國慶日補假",
+      "governmentName": "補假",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "國慶日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "國慶日"
     },
     "2026-10-10": {
       "governmentHoliday": true,
       "governmentName": "國慶日",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "國慶日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "國慶日"
     },
     "2026-10-25": {
       "governmentHoliday": true,
       "governmentName": "臺灣光復暨金門古寧頭大捷紀念日",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "臺灣光復暨金門古寧頭大捷紀念日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "臺灣光復暨金門古寧頭大捷紀念日"
     },
     "2026-10-26": {
       "governmentHoliday": true,
-      "governmentName": "光復節補假",
+      "governmentName": "補假",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "臺灣光復暨金門古寧頭大捷紀念日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "臺灣光復暨金門古寧頭大捷紀念日"
     },
     "2026-12-25": {
       "governmentHoliday": true,
       "governmentName": "行憲紀念日",
+      "source": "DGPA live update",
       "marketClosed": true,
-      "marketName": "行憲紀念日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "行憲紀念日"
     },
     "2027-01-01": {
       "governmentHoliday": true,
-      "governmentName": "中華民國開國紀念日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "開國紀念日",
+      "source": "DGPA live update"
     },
     "2027-02-04": {
       "governmentHoliday": true,
       "governmentName": "小年夜",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-02-05": {
       "governmentHoliday": true,
       "governmentName": "農曆除夕",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-02-06": {
       "governmentHoliday": true,
       "governmentName": "春節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-02-07": {
       "governmentHoliday": true,
       "governmentName": "春節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-02-08": {
       "governmentHoliday": true,
       "governmentName": "春節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-02-09": {
       "governmentHoliday": true,
-      "governmentName": "春節補假",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "補假",
+      "source": "DGPA live update"
     },
     "2027-02-10": {
       "governmentHoliday": true,
-      "governmentName": "春節補假",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "補假",
+      "source": "DGPA live update"
     },
     "2027-02-28": {
       "governmentHoliday": true,
       "governmentName": "和平紀念日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-03-01": {
       "governmentHoliday": true,
-      "governmentName": "和平紀念日補假",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "補假",
+      "source": "DGPA live update"
     },
     "2027-04-04": {
       "governmentHoliday": true,
       "governmentName": "兒童節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-04-05": {
       "governmentHoliday": true,
-      "governmentName": "民族掃墓節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "清明節",
+      "source": "DGPA live update"
     },
     "2027-04-06": {
       "governmentHoliday": true,
-      "governmentName": "兒童節補假",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "補假",
+      "source": "DGPA live update"
     },
     "2027-04-30": {
       "governmentHoliday": true,
-      "governmentName": "勞動節補假",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "補假",
+      "source": "DGPA live update"
     },
     "2027-05-01": {
       "governmentHoliday": true,
       "governmentName": "勞動節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-06-09": {
       "governmentHoliday": true,
       "governmentName": "端午節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-09-15": {
       "governmentHoliday": true,
       "governmentName": "中秋節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-09-28": {
       "governmentHoliday": true,
-      "governmentName": "孔子誕辰紀念日／教師節",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "孔子誕辰紀念日/教師節",
+      "source": "DGPA live update"
     },
     "2027-10-10": {
       "governmentHoliday": true,
       "governmentName": "國慶日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-10-11": {
       "governmentHoliday": true,
-      "governmentName": "國慶日補假",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "補假",
+      "source": "DGPA live update"
     },
     "2027-10-25": {
       "governmentHoliday": true,
       "governmentName": "臺灣光復暨金門古寧頭大捷紀念日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-12-24": {
       "governmentHoliday": true,
-      "governmentName": "行憲紀念日補假",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "補假",
+      "source": "DGPA live update"
     },
     "2027-12-25": {
       "governmentHoliday": true,
       "governmentName": "行憲紀念日",
-      "source": "seed: DGPA/TWSE official schedules"
+      "source": "DGPA live update"
     },
     "2027-12-31": {
       "governmentHoliday": true,
-      "governmentName": "2028 開國紀念日補假",
-      "source": "seed: DGPA/TWSE official schedules"
+      "governmentName": "補假",
+      "source": "DGPA live update"
     },
     "2026-02-12": {
+      "source": "TWSE live update",
       "marketClosed": true,
-      "marketName": "市場無交易，僅辦理結算交割作業",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "市場無交易，僅辦理結算交割作業"
     },
     "2026-02-13": {
+      "source": "TWSE live update",
       "marketClosed": true,
-      "marketName": "市場無交易，僅辦理結算交割作業",
-      "source": "seed: DGPA/TWSE official schedules"
+      "marketName": "市場無交易，僅辦理結算交割作業"
+    },
+    "2026-01-03": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-01-04": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-01-10": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-01-11": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-01-17": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-01-18": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-01-24": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-01-25": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-01-31": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-02-01": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-02-07": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-02-08": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-02-14": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-02-21": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-02-22": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-03-01": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-03-07": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-03-08": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-03-14": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-03-15": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-03-21": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-03-22": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-03-28": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-03-29": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-04-11": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-04-12": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-04-18": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-04-19": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-04-25": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-04-26": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-05-02": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-05-03": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-05-09": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-05-10": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-05-16": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-05-17": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-05-23": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-05-24": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-05-30": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-05-31": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-06-06": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-06-07": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-06-13": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-06-14": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-06-20": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-06-21": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-06-27": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-06-28": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-07-04": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-07-05": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-07-11": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-07-12": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-07-18": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-07-19": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-07-25": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-07-26": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-08-01": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-08-02": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-08-08": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-08-09": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-08-15": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-08-16": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-08-22": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-08-23": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-08-29": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-08-30": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-09-05": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-09-06": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-09-12": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-09-13": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-09-19": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-09-20": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-09-26": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-09-27": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-10-03": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-10-04": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-10-11": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-10-17": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-10-18": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-10-24": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-10-31": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-11-01": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-11-07": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-11-08": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-11-14": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-11-15": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-11-21": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-11-22": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-11-28": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-11-29": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-12-05": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-12-06": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-12-12": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-12-13": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-12-19": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-12-20": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-12-26": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2026-12-27": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-01-02": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-01-03": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-01-09": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-01-10": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-01-16": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-01-17": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-01-23": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-01-24": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-01-30": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-01-31": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-02-13": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-02-14": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-02-20": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-02-21": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-02-27": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-03-06": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-03-07": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-03-13": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-03-14": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-03-20": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-03-21": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-03-27": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-03-28": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-04-03": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-04-10": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-04-11": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-04-17": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-04-18": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-04-24": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-04-25": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-05-02": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-05-08": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-05-09": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-05-15": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-05-16": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-05-22": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-05-23": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-05-29": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-05-30": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-06-05": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-06-06": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-06-12": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-06-13": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-06-19": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-06-20": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-06-26": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-06-27": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-07-03": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-07-04": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-07-10": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-07-11": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-07-17": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-07-18": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-07-24": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-07-25": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-07-31": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-08-01": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-08-07": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-08-08": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-08-14": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-08-15": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-08-21": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-08-22": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-08-28": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-08-29": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-09-04": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-09-05": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-09-11": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-09-12": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-09-18": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-09-19": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-09-25": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-09-26": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-10-02": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-10-03": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-10-09": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-10-16": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-10-17": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-10-23": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-10-24": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-10-30": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-10-31": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-11-06": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-11-07": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-11-13": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-11-14": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-11-20": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-11-21": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-11-27": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-11-28": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-12-04": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-12-05": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-12-11": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-12-12": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-12-18": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-12-19": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
+    },
+    "2027-12-26": {
+      "governmentHoliday": true,
+      "governmentName": "政府放假日",
+      "source": "DGPA live update"
     }
   }
 }
