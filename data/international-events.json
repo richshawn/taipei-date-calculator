@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T00:37:33.124733Z",
+  "updatedAt": "2026-09-27T00:35:45.756888Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-09-21",
@@ -1691,6 +1691,20 @@
       "uri": "https://wallstreetcn.com/calendar/US151134/overview"
     },
     {
+      "id": "1594686",
+      "date": "2026-10-02",
+      "time": "07:30",
+      "country": "JP",
+      "importance": 3,
+      "title": "9月东京CPI同比",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "1.9",
+      "unit": "%",
+      "uri": "https://wallstreetcn.com/calendar/JP111739/overview"
+    },
+    {
       "id": "1594689",
       "date": "2026-10-02",
       "time": "07:30",
@@ -1747,18 +1761,18 @@
       "uri": "https://wallstreetcn.com/calendar/JP111741/overview"
     },
     {
-      "id": "1594686",
+      "id": "1594698",
       "date": "2026-10-02",
-      "time": "07:30",
-      "country": "JP",
-      "importance": 2,
-      "title": "9月东京CPI同比",
+      "time": "20:30",
+      "country": "US",
+      "importance": 4,
+      "title": "9月非农就业人口变动(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
-      "previous": "1.9",
-      "unit": "%",
-      "uri": "https://wallstreetcn.com/calendar/JP111739/overview"
+      "forecast": "10.7",
+      "previous": "16.2",
+      "unit": "万人",
+      "uri": "https://wallstreetcn.com/calendar/US121058/overview"
     },
     {
       "id": "1594704",
@@ -1773,20 +1787,6 @@
       "previous": "4.1",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US121050/overview"
-    },
-    {
-      "id": "1594698",
-      "date": "2026-10-02",
-      "time": "20:30",
-      "country": "US",
-      "importance": 3,
-      "title": "9月非农就业人口变动(万人)",
-      "category": "macro",
-      "actual": "",
-      "forecast": "10.7",
-      "previous": "16.2",
-      "unit": "万人",
-      "uri": "https://wallstreetcn.com/calendar/US121058/overview"
     },
     {
       "id": "1594700",
