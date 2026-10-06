@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:55:02.141543Z",
+  "updatedAt": "2026-10-06T02:17:57.320223Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-10-05",
@@ -102,7 +102,7 @@
       "importance": 2,
       "title": "9月标普全球服务业PMI终值",
       "category": "macro",
-      "actual": "",
+      "actual": "58.8",
       "forecast": "58.7",
       "previous": "58.7",
       "unit": "",
@@ -116,7 +116,7 @@
       "importance": 2,
       "title": "9月标普全球综合PMI终值",
       "category": "macro",
-      "actual": "",
+      "actual": "58.4",
       "forecast": "58.4",
       "previous": "58.4",
       "unit": "",
@@ -130,7 +130,7 @@
       "importance": 3,
       "title": "9月ISM非制造业指数",
       "category": "macro",
-      "actual": "",
+      "actual": "54.9",
       "forecast": "55",
       "previous": "55.4",
       "unit": "",
@@ -1031,6 +1031,20 @@
       "previous": "-1.7",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/JP141794/overview"
+    },
+    {
+      "id": "15395",
+      "date": "2026-10-15",
+      "time": "14:00",
+      "country": "CN",
+      "importance": 4,
+      "title": "台积电第三季法说会",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "1595605",
