@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T02:17:57.320223Z",
+  "updatedAt": "2026-10-07T01:31:49.620485Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-10-05",
@@ -158,8 +158,8 @@
       "importance": 2,
       "title": "8月贸易帐(亿美元)",
       "category": "macro",
-      "actual": "",
-      "forecast": "-1020",
+      "actual": "-1056",
+      "forecast": "-1021",
       "previous": "-886",
       "unit": "亿美元",
       "uri": "https://wallstreetcn.com/calendar/US131079/overview"
