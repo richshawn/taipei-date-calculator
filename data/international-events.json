@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:31:49.620485Z",
+  "updatedAt": "2026-10-08T01:55:12.464522Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-10-05",
@@ -195,13 +195,13 @@
     {
       "id": "1595087",
       "date": "2026-10-07",
-      "time": "12:02",
+      "time": "10:01",
       "country": "CN",
       "importance": 4,
       "title": "9月外汇储备(亿美元)",
       "category": "macro",
-      "actual": "",
-      "forecast": "",
+      "actual": "34002.5",
+      "forecast": "34250",
       "previous": "34383.3",
       "unit": "亿美元",
       "uri": "https://wallstreetcn.com/calendar/CN191467/overview"
@@ -214,7 +214,7 @@
       "importance": 2,
       "title": "10月2日当周EIA原油库存变动(万桶)",
       "category": "macro",
-      "actual": "",
+      "actual": "-318.6",
       "forecast": "",
       "previous": "92.2",
       "unit": "万桶",
@@ -228,7 +228,7 @@
       "importance": 2,
       "title": "10月2日当周EIA库欣地区原油库存变动(万桶)",
       "category": "macro",
-      "actual": "",
+      "actual": "44.4",
       "forecast": "",
       "previous": "55.3",
       "unit": "万桶",
@@ -242,7 +242,7 @@
       "importance": 2,
       "title": "10月2日当周EIA汽油库存变动(万桶)",
       "category": "macro",
-      "actual": "",
+      "actual": "38.2",
       "forecast": "",
       "previous": "-168.4",
       "unit": "万桶",
@@ -256,7 +256,7 @@
       "importance": 2,
       "title": "10月2日当周EIA精炼油库存变动(万桶)",
       "category": "macro",
-      "actual": "",
+      "actual": "-4.2",
       "forecast": "",
       "previous": "-225.1",
       "unit": "万桶",
@@ -312,8 +312,8 @@
       "importance": 1,
       "title": "8月贸易帐(亿日元)",
       "category": "macro",
-      "actual": "",
-      "forecast": "-8031",
+      "actual": "-6877",
+      "forecast": "-7152",
       "previous": "-3999",
       "unit": "亿日元",
       "uri": "https://wallstreetcn.com/calendar/JP131766/overview"
@@ -453,7 +453,7 @@
       "title": "1至9月新增人民币贷款(亿人民币)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "114870",
       "previous": "104400",
       "unit": "亿人民币",
       "uri": "https://wallstreetcn.com/calendar/CN131335/overview"
@@ -467,7 +467,7 @@
       "title": "1至9月社会融资规模增量(亿人民币)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "272745",
       "previous": "239100",
       "unit": "亿人民币",
       "uri": "https://wallstreetcn.com/calendar/CN131334/overview"
@@ -481,7 +481,7 @@
       "title": "9月M2货币供应同比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "7.4",
       "previous": "7.5",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/CN191442/overview"
@@ -509,7 +509,7 @@
       "title": "9月M1货币供应同比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "4",
       "previous": "4.1",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/CN191441/overview"
@@ -551,7 +551,7 @@
       "title": "10月密歇根大学消费者信心指数初值",
       "category": "macro",
       "actual": "",
-      "forecast": "47.8",
+      "forecast": "47.6",
       "previous": "48.1",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151149/overview"
@@ -565,7 +565,7 @@
       "title": "10月密歇根大学消费者现况指数初值",
       "category": "macro",
       "actual": "",
-      "forecast": "50.5",
+      "forecast": "50.3",
       "previous": "50.9",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151150/overview"
@@ -579,7 +579,7 @@
       "title": "10月密歇根大学消费者预期指数初值",
       "category": "macro",
       "actual": "",
-      "forecast": "45.7",
+      "forecast": "45.5",
       "previous": "46.3",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151151/overview"
@@ -705,7 +705,7 @@
       "title": "9月成屋销售总数年化(万户)",
       "category": "macro",
       "actual": "",
-      "forecast": "400",
+      "forecast": "396",
       "previous": "398",
       "unit": "万户",
       "uri": "https://wallstreetcn.com/calendar/US161171/overview"
@@ -719,7 +719,7 @@
       "title": "9月成屋销售总数年化环比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "-0.4",
       "previous": "-2",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US161172/overview"
@@ -747,7 +747,7 @@
       "title": "9月CPI同比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "1",
       "previous": "0.8",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/CN111275/overview"
@@ -761,7 +761,7 @@
       "title": "9月PPI同比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "4.3",
       "previous": "3.8",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/CN111291/overview"
@@ -901,7 +901,7 @@
       "title": "9月CPI同比",
       "category": "macro",
       "actual": "",
-      "forecast": "3.7",
+      "forecast": "3.6",
       "previous": "3.4",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US111017/overview"
