@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T01:19:25.987785Z",
+  "updatedAt": "2026-10-13T03:03:13.463849Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-10-12",
@@ -39,6 +39,48 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
+      "id": "1595119",
+      "date": "2026-10-12",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 3,
+      "title": "1至9月新增人民币贷款(亿人民币)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "104400",
+      "unit": "亿人民币",
+      "uri": "https://wallstreetcn.com/calendar/CN131335/overview"
+    },
+    {
+      "id": "1595120",
+      "date": "2026-10-12",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 3,
+      "title": "1至9月社会融资规模增量(亿人民币)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "239100",
+      "unit": "亿人民币",
+      "uri": "https://wallstreetcn.com/calendar/CN131334/overview"
+    },
+    {
+      "id": "1595121",
+      "date": "2026-10-12",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 3,
+      "title": "9月M2货币供应同比",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "7.5",
+      "unit": "%",
+      "uri": "https://wallstreetcn.com/calendar/CN191442/overview"
+    },
+    {
       "id": "15459",
       "date": "2026-10-12",
       "time": "12:02",
@@ -51,6 +93,34 @@
       "previous": "",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "1595123",
+      "date": "2026-10-12",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 2,
+      "title": "9月M0货币供应同比",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "11.2",
+      "unit": "%",
+      "uri": "https://wallstreetcn.com/calendar/CN191440/overview"
+    },
+    {
+      "id": "1595122",
+      "date": "2026-10-12",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 2,
+      "title": "9月M1货币供应同比",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "4.1",
+      "unit": "%",
+      "uri": "https://wallstreetcn.com/calendar/CN191441/overview"
     },
     {
       "id": "15463",
@@ -130,7 +200,7 @@
       "importance": 2,
       "title": "9月国内企业商品物价指数同比",
       "category": "macro",
-      "actual": "",
+      "actual": "6.8",
       "forecast": "7.6",
       "previous": "7.6",
       "unit": "%",
@@ -144,25 +214,11 @@
       "importance": 2,
       "title": "9月国内企业商品物价指数环比",
       "category": "macro",
-      "actual": "",
+      "actual": "-0.3",
       "forecast": "0.5",
       "previous": "-0.2",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/JP111746/overview"
-    },
-    {
-      "id": "15408",
-      "date": "2026-10-13",
-      "time": "12:02",
-      "country": "US",
-      "importance": 4,
-      "title": "苹果举行智能家居新品发布会",
-      "category": "macro",
-      "actual": "",
-      "forecast": "",
-      "previous": "",
-      "unit": "",
-      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "15453",
@@ -247,6 +303,20 @@
       "previous": "98.7",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US151153/overview"
+    },
+    {
+      "id": "15408",
+      "date": "2026-10-13",
+      "time": "21:02",
+      "country": "US",
+      "importance": 4,
+      "title": "苹果举行智能家居新品发布会",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "1595553",
@@ -1332,7 +1402,7 @@
       "time": "12:02",
       "country": "CN",
       "importance": 4,
-      "title": "2026金融街论坛年会将于10月19日在京开幕",
+      "title": "2026金融街论坛年会开幕，吴清、朱鹤新出席，预计发布重磅政策",
       "category": "macro",
       "actual": "",
       "forecast": "",
