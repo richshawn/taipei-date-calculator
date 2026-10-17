@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:24:07.954542Z",
+  "updatedAt": "2026-10-17T00:28:31.923453Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-10-12",
@@ -1083,7 +1083,7 @@
       "title": "10月9日当周EIA原油库存变动(万桶)",
       "category": "macro",
       "actual": "-855.7",
-      "forecast": "",
+      "forecast": "15",
       "previous": "-318.6",
       "unit": "万桶",
       "uri": "https://wallstreetcn.com/calendar/US141126/overview"
@@ -1111,7 +1111,7 @@
       "title": "10月9日当周EIA汽油库存变动(万桶)",
       "category": "macro",
       "actual": "351.8",
-      "forecast": "",
+      "forecast": "-91.1",
       "previous": "38.2",
       "unit": "万桶",
       "uri": "https://wallstreetcn.com/calendar/US141124/overview"
@@ -1125,7 +1125,7 @@
       "title": "10月9日当周EIA精炼油库存变动(万桶)",
       "category": "macro",
       "actual": "-252.7",
-      "forecast": "",
+      "forecast": "-172",
       "previous": "-4.2",
       "unit": "万桶",
       "uri": "https://wallstreetcn.com/calendar/US141123/overview"
@@ -1194,8 +1194,8 @@
       "importance": 2,
       "title": "9月进口价格指数同比",
       "category": "macro",
-      "actual": "",
-      "forecast": "8.1",
+      "actual": "8.1",
+      "forecast": "8.2",
       "previous": "7",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US131091/overview"
@@ -1208,8 +1208,8 @@
       "importance": 2,
       "title": "9月进口价格指数环比",
       "category": "macro",
-      "actual": "",
-      "forecast": "0.9",
+      "actual": "1.1",
+      "forecast": "1",
       "previous": "0.7",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US131093/overview"
@@ -1222,7 +1222,7 @@
       "importance": 2,
       "title": "9月制造业产出环比",
       "category": "macro",
-      "actual": "",
+      "actual": "0.3",
       "forecast": "0.3",
       "previous": "-0.3",
       "unit": "%",
@@ -1236,11 +1236,25 @@
       "importance": 2,
       "title": "9月工业产出环比",
       "category": "macro",
-      "actual": "",
+      "actual": "0.7",
       "forecast": "0.4",
       "previous": "0",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US141097/overview"
+    },
+    {
+      "id": "1598677",
+      "date": "2026-10-17",
+      "time": "01:00",
+      "country": "US",
+      "importance": 2,
+      "title": "10月16日当周石油钻井数",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "462",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar/US141129/overview"
     },
     {
       "id": "1598434",
@@ -1313,6 +1327,20 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
+      "id": "15538",
+      "date": "2026-10-19",
+      "time": "09:30",
+      "country": "CN",
+      "importance": 3,
+      "title": "中国9月70城房价",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "15510",
       "date": "2026-10-19",
       "time": "09:30",
@@ -1325,6 +1353,48 @@
       "previous": "",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "1595647",
+      "date": "2026-10-19",
+      "time": "10:00",
+      "country": "CN",
+      "importance": 4,
+      "title": "9月社会消费品零售总额同比",
+      "category": "macro",
+      "actual": "",
+      "forecast": "0.5",
+      "previous": "0.4",
+      "unit": "%",
+      "uri": "https://wallstreetcn.com/calendar/CN171405/overview"
+    },
+    {
+      "id": "1595649",
+      "date": "2026-10-19",
+      "time": "10:00",
+      "country": "CN",
+      "importance": 4,
+      "title": "9月规模以上工业增加值同比",
+      "category": "macro",
+      "actual": "",
+      "forecast": "5.4",
+      "previous": "5.2",
+      "unit": "%",
+      "uri": "https://wallstreetcn.com/calendar/CN141330/overview"
+    },
+    {
+      "id": "1595644",
+      "date": "2026-10-19",
+      "time": "10:00",
+      "country": "CN",
+      "importance": 4,
+      "title": "三季度GDP同比",
+      "category": "macro",
+      "actual": "",
+      "forecast": "4.4",
+      "previous": "4.3",
+      "unit": "%",
+      "uri": "https://wallstreetcn.com/calendar/CN101256/overview"
     },
     {
       "id": "1595653",
@@ -1341,68 +1411,12 @@
       "uri": "https://wallstreetcn.com/calendar/CN161376/overview"
     },
     {
-      "id": "1595648",
-      "date": "2026-10-19",
-      "time": "10:00",
-      "country": "CN",
-      "importance": 3,
-      "title": "1至9月社会消费品零售总额同比",
-      "category": "macro",
-      "actual": "",
-      "forecast": "",
-      "previous": "1.1",
-      "unit": "%",
-      "uri": "https://wallstreetcn.com/calendar/CN171402/overview"
-    },
-    {
-      "id": "1595647",
-      "date": "2026-10-19",
-      "time": "10:00",
-      "country": "CN",
-      "importance": 3,
-      "title": "9月社会消费品零售总额同比",
-      "category": "macro",
-      "actual": "",
-      "forecast": "0.5",
-      "previous": "0.4",
-      "unit": "%",
-      "uri": "https://wallstreetcn.com/calendar/CN171405/overview"
-    },
-    {
-      "id": "1595649",
-      "date": "2026-10-19",
-      "time": "10:00",
-      "country": "CN",
-      "importance": 3,
-      "title": "9月规模以上工业增加值同比",
-      "category": "macro",
-      "actual": "",
-      "forecast": "5.4",
-      "previous": "5.2",
-      "unit": "%",
-      "uri": "https://wallstreetcn.com/calendar/CN141330/overview"
-    },
-    {
-      "id": "1595644",
-      "date": "2026-10-19",
-      "time": "10:00",
-      "country": "CN",
-      "importance": 3,
-      "title": "三季度GDP同比",
-      "category": "macro",
-      "actual": "",
-      "forecast": "4.4",
-      "previous": "4.3",
-      "unit": "%",
-      "uri": "https://wallstreetcn.com/calendar/CN101256/overview"
-    },
-    {
       "id": "15509",
       "date": "2026-10-19",
       "time": "10:00",
       "country": "CN",
       "importance": 3,
-      "title": "国新办就国民经济运行情况举行新闻发布会。",
+      "title": "国新办就国民经济运行情况举行新闻发布会",
       "category": "macro",
       "actual": "",
       "forecast": "",
@@ -1423,6 +1437,20 @@
       "previous": "-7.2",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/CN141339/overview"
+    },
+    {
+      "id": "1595648",
+      "date": "2026-10-19",
+      "time": "10:00",
+      "country": "CN",
+      "importance": 2,
+      "title": "1至9月社会消费品零售总额同比",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "1.1",
+      "unit": "%",
+      "uri": "https://wallstreetcn.com/calendar/CN171402/overview"
     },
     {
       "id": "1595650",
@@ -1509,12 +1537,40 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
+      "id": "15536",
+      "date": "2026-10-19",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 3,
+      "title": "Bund Summit 上海（19—22日）",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "15366",
       "date": "2026-10-19",
       "time": "12:02",
       "country": "CN",
       "importance": 2,
       "title": "2026 中国汽车供应链大会",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "15540",
+      "date": "2026-10-19",
+      "time": "15:00",
+      "country": "CN",
+      "importance": 3,
+      "title": "国新办举行新闻发布会，介绍加快推进科技兴商有关情况",
       "category": "macro",
       "actual": "",
       "forecast": "",
@@ -1565,12 +1621,12 @@
       "uri": "https://wallstreetcn.com/calendar/CN191481/overview"
     },
     {
-      "id": "15405",
+      "id": "15524",
       "date": "2026-10-20",
       "time": "12:02",
       "country": "CN",
-      "importance": 3,
-      "title": "APEC财政部长会议",
+      "importance": 4,
+      "title": "2026年APEC财长会，首度在中国香港举行",
       "category": "macro",
       "actual": "",
       "forecast": "",
@@ -1615,7 +1671,7 @@
       "title": "9月新屋开工(万户)",
       "category": "macro",
       "actual": "",
-      "forecast": "130",
+      "forecast": "130.5",
       "previous": "127.5",
       "unit": "万户",
       "uri": "https://wallstreetcn.com/calendar/US161163/overview"
@@ -1629,7 +1685,7 @@
       "title": "9月新屋开工环比",
       "category": "macro",
       "actual": "",
-      "forecast": "1.9",
+      "forecast": "2.3",
       "previous": "-2.6",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US161164/overview"
@@ -1643,7 +1699,7 @@
       "title": "9月营建许可初值(万户)",
       "category": "macro",
       "actual": "",
-      "forecast": "138.8",
+      "forecast": "138.5",
       "previous": "140.3",
       "unit": "万户",
       "uri": "https://wallstreetcn.com/calendar/US161161/overview"
@@ -1657,7 +1713,7 @@
       "title": "9月营建许可环比初值",
       "category": "macro",
       "actual": "",
-      "forecast": "-2",
+      "forecast": "-1.7",
       "previous": "-2.1",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US161162/overview"
@@ -1685,7 +1741,7 @@
       "title": "9月成屋签约销售指数环比",
       "category": "macro",
       "actual": "",
-      "forecast": "0.5",
+      "forecast": "0",
       "previous": "0.3",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US161175/overview"
@@ -1761,6 +1817,20 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
+      "id": "15528",
+      "date": "2026-10-21",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 3,
+      "title": "第十九届中国—欧盟投资贸易科技合作洽谈会",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "15458",
       "date": "2026-10-21",
       "time": "12:02",
@@ -1789,6 +1859,62 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
+      "id": "1598678",
+      "date": "2026-10-21",
+      "time": "22:30",
+      "country": "US",
+      "importance": 2,
+      "title": "10月16日当周EIA原油库存变动(万桶)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "-855.7",
+      "unit": "万桶",
+      "uri": "https://wallstreetcn.com/calendar/US141126/overview"
+    },
+    {
+      "id": "1598679",
+      "date": "2026-10-21",
+      "time": "22:30",
+      "country": "US",
+      "importance": 2,
+      "title": "10月16日当周EIA库欣地区原油库存变动(万桶)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "186.2",
+      "unit": "万桶",
+      "uri": "https://wallstreetcn.com/calendar/US141127/overview"
+    },
+    {
+      "id": "1598680",
+      "date": "2026-10-21",
+      "time": "22:30",
+      "country": "US",
+      "importance": 2,
+      "title": "10月16日当周EIA汽油库存变动(万桶)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "351.8",
+      "unit": "万桶",
+      "uri": "https://wallstreetcn.com/calendar/US141124/overview"
+    },
+    {
+      "id": "1598681",
+      "date": "2026-10-21",
+      "time": "22:30",
+      "country": "US",
+      "importance": 2,
+      "title": "10月16日当周EIA精炼油库存变动(万桶)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "-252.7",
+      "unit": "万桶",
+      "uri": "https://wallstreetcn.com/calendar/US141123/overview"
+    },
+    {
       "id": "1596028",
       "date": "2026-10-22",
       "time": "09:00",
@@ -1811,7 +1937,7 @@
       "title": "10月17日当周首次申请失业救济人数(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "20",
       "previous": "19.9",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121055/overview"
@@ -1839,10 +1965,24 @@
       "title": "9月谘商会领先指标环比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "-0.2",
       "previous": "-0.1",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US151160/overview"
+    },
+    {
+      "id": "1598683",
+      "date": "2026-10-22",
+      "time": "22:30",
+      "country": "US",
+      "importance": 2,
+      "title": "10月16日当周EIA天然气库存变动(亿立方英尺)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "670",
+      "unit": "亿立方英尺",
+      "uri": "https://wallstreetcn.com/calendar/US141125/overview"
     },
     {
       "id": "1596037",
@@ -1859,6 +1999,20 @@
       "uri": "https://wallstreetcn.com/calendar/US151157/overview"
     },
     {
+      "id": "1596039",
+      "date": "2026-10-23",
+      "time": "07:30",
+      "country": "JP",
+      "importance": 3,
+      "title": "9月CPI同比",
+      "category": "macro",
+      "actual": "",
+      "forecast": "2.1",
+      "previous": "1.9",
+      "unit": "%",
+      "uri": "https://wallstreetcn.com/calendar/JP111723/overview"
+    },
+    {
       "id": "1596040",
       "date": "2026-10-23",
       "time": "07:30",
@@ -1867,7 +2021,7 @@
       "title": "9月CPI(除生鲜食品)同比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "2.1",
       "previous": "1.7",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/JP111725/overview"
@@ -1881,24 +2035,10 @@
       "title": "9月CPI(除生鲜食品及能源)同比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "2.3",
       "previous": "1.9",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/JP111726/overview"
-    },
-    {
-      "id": "1596039",
-      "date": "2026-10-23",
-      "time": "07:30",
-      "country": "JP",
-      "importance": 2,
-      "title": "9月CPI同比",
-      "category": "macro",
-      "actual": "",
-      "forecast": "",
-      "previous": "1.9",
-      "unit": "%",
-      "uri": "https://wallstreetcn.com/calendar/JP111723/overview"
     },
     {
       "id": "1596043",
@@ -1979,7 +2119,7 @@
       "title": "10月标普全球制造业PMI初值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "55.5",
       "previous": "55.9",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151144/overview"
@@ -1993,7 +2133,7 @@
       "title": "10月标普全球服务业PMI初值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "57.9",
       "previous": "58.8",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151145/overview"
@@ -2021,8 +2161,8 @@
       "title": "10月密歇根大学消费者信心指数终值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
-      "previous": "",
+      "forecast": "46.3",
+      "previous": "46.3",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151149/overview"
     },
@@ -2036,7 +2176,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "44.7",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151150/overview"
     },
@@ -2050,7 +2190,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "47.3",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151151/overview"
     }
