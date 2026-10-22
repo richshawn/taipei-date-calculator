@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T00:36:54.210443Z",
+  "updatedAt": "2026-10-22T00:40:58.892843Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-10-19",
@@ -620,7 +620,7 @@
       "importance": 2,
       "title": "10月16日当周EIA原油库存变动(万桶)",
       "category": "macro",
-      "actual": "",
+      "actual": "-306",
       "forecast": "",
       "previous": "-855.7",
       "unit": "万桶",
@@ -634,7 +634,7 @@
       "importance": 2,
       "title": "10月16日当周EIA库欣地区原油库存变动(万桶)",
       "category": "macro",
-      "actual": "",
+      "actual": "98.7",
       "forecast": "",
       "previous": "186.2",
       "unit": "万桶",
@@ -648,7 +648,7 @@
       "importance": 2,
       "title": "10月16日当周EIA汽油库存变动(万桶)",
       "category": "macro",
-      "actual": "",
+      "actual": "-295.2",
       "forecast": "",
       "previous": "351.8",
       "unit": "万桶",
@@ -662,7 +662,7 @@
       "importance": 2,
       "title": "10月16日当周EIA精炼油库存变动(万桶)",
       "category": "macro",
-      "actual": "",
+      "actual": "167.5",
       "forecast": "",
       "previous": "-252.7",
       "unit": "万桶",
@@ -1031,6 +1031,20 @@
       "previous": "4.2",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/CN141328/overview"
+    },
+    {
+      "id": "15564",
+      "date": "2026-10-27",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 3,
+      "title": "《上海市卫星互联网产业创新发展行动方案（2027—2030年）》即将发布",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "15415",
