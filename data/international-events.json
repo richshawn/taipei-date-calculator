@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T00:22:40.051422Z",
+  "updatedAt": "2026-10-27T01:28:34.056656Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-10-26",
@@ -46,7 +46,7 @@
       "importance": 2,
       "title": "9月芝加哥联储全国活动指数",
       "category": "macro",
-      "actual": "",
+      "actual": "0.07",
       "forecast": "-0.1",
       "previous": "-0.04",
       "unit": "",
@@ -60,7 +60,7 @@
       "importance": 2,
       "title": "10月达拉斯联储商业活动指数",
       "category": "macro",
-      "actual": "",
+      "actual": "9.8",
       "forecast": "",
       "previous": "9.8",
       "unit": "",
