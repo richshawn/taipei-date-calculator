@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T01:30:02.700771Z",
+  "updatedAt": "2026-11-03T03:27:57.028080Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-11-02",
@@ -32,7 +32,7 @@
       "importance": 3,
       "title": "10月RatingDog制造业PMI",
       "category": "macro",
-      "actual": "",
+      "actual": "52",
       "forecast": "",
       "previous": "52.1",
       "unit": "",
@@ -102,7 +102,7 @@
       "importance": 2,
       "title": "10月标普全球制造业PMI终值",
       "category": "macro",
-      "actual": "",
+      "actual": "54.9",
       "forecast": "",
       "previous": "56",
       "unit": "",
@@ -116,7 +116,7 @@
       "importance": 3,
       "title": "10月ISM制造业指数",
       "category": "macro",
-      "actual": "",
+      "actual": "55.5",
       "forecast": "54.7",
       "previous": "54.5",
       "unit": "",
@@ -130,7 +130,7 @@
       "importance": 2,
       "title": "10月ISM制造业就业指数",
       "category": "macro",
-      "actual": "",
+      "actual": "52.4",
       "forecast": "52",
       "previous": "52.7",
       "unit": "",
@@ -144,7 +144,7 @@
       "importance": 2,
       "title": "10月ISM制造业新订单指数",
       "category": "macro",
-      "actual": "",
+      "actual": "55.5",
       "forecast": "54.5",
       "previous": "55.3",
       "unit": "",
@@ -158,7 +158,7 @@
       "importance": 2,
       "title": "10月ISM制造业物价支付指数",
       "category": "macro",
-      "actual": "",
+      "actual": "75.2",
       "forecast": "77",
       "previous": "77.9",
       "unit": "",
@@ -172,7 +172,7 @@
       "importance": 2,
       "title": "9月营建支出环比",
       "category": "macro",
-      "actual": "",
+      "actual": "-1.9",
       "forecast": "0.5",
       "previous": "0.9",
       "unit": "%",
@@ -207,12 +207,54 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
+      "id": "15635",
+      "date": "2026-11-03",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 4,
+      "title": "报道：中国央行将启动第三次证券、基金、保险公司互换便利操作招标",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "15630",
       "date": "2026-11-03",
       "time": "12:02",
       "country": "US",
       "importance": 3,
       "title": "北美机器人峰会Humanoid Robots Summit",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "15633",
+      "date": "2026-11-03",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 3,
+      "title": "王毅、王文涛将共同主持亚太经合组织第37届外交和贸易双部长视频会议",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "15634",
+      "date": "2026-11-03",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 2,
+      "title": "王毅将主持澜湄合作第十一次外长会",
       "category": "macro",
       "actual": "",
       "forecast": "",
@@ -229,7 +271,7 @@
       "title": "9月JOLTS职位空缺(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "713.4",
+      "forecast": "716.4",
       "previous": "707.9",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121074/overview"
@@ -257,7 +299,7 @@
       "title": "9月扣除运输的工厂订单环比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.5",
       "previous": "0.3",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US141113/overview"
@@ -271,7 +313,7 @@
       "title": "9月扣除运输类耐用品订单环比终值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.5",
       "previous": "0.5",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US141106/overview"
@@ -285,7 +327,7 @@
       "title": "9月扣除飞机非国防资本耐用品订单环比终值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.5",
       "previous": "0.5",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US141109/overview"
@@ -299,7 +341,7 @@
       "title": "9月耐用品订单环比终值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "1.8",
       "previous": "1.8",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US141104/overview"
@@ -411,7 +453,7 @@
       "title": "10月ADP就业人数变动(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "7.5",
+      "forecast": "6.6",
       "previous": "9",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121065/overview"
@@ -425,7 +467,7 @@
       "title": "9月贸易帐(亿美元)",
       "category": "macro",
       "actual": "",
-      "forecast": "-1049",
+      "forecast": "-1079",
       "previous": "-1056",
       "unit": "亿美元",
       "uri": "https://wallstreetcn.com/calendar/US131079/overview"
@@ -439,7 +481,7 @@
       "title": "10月标普全球服务业PMI终值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "57.9",
       "previous": "57.9",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151145/overview"
@@ -481,7 +523,7 @@
       "title": "10月30日当周EIA原油库存变动(万桶)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0",
       "previous": "-189.2",
       "unit": "万桶",
       "uri": "https://wallstreetcn.com/calendar/US141126/overview"
@@ -509,7 +551,7 @@
       "title": "10月30日当周EIA汽油库存变动(万桶)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "10",
       "previous": "387",
       "unit": "万桶",
       "uri": "https://wallstreetcn.com/calendar/US141124/overview"
@@ -523,7 +565,7 @@
       "title": "10月30日当周EIA精炼油库存变动(万桶)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "-85",
       "previous": "-146.2",
       "unit": "万桶",
       "uri": "https://wallstreetcn.com/calendar/US141123/overview"
@@ -621,8 +663,8 @@
       "title": "10月31日当周首次申请失业救济人数(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
-      "previous": "",
+      "forecast": "19.6",
+      "previous": "19.4",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121055/overview"
     },
@@ -635,8 +677,8 @@
       "title": "10月24日当周续请失业救济人数(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
-      "previous": "",
+      "forecast": "171",
+      "previous": "170.1",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121056/overview"
     },
@@ -649,7 +691,7 @@
       "title": "三季度非农单位劳动力成本初值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.4",
       "previous": "1.2",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US121070/overview"
@@ -663,7 +705,7 @@
       "title": "三季度非农生产力初值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "2.7",
       "previous": "1.4",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US121071/overview"
@@ -678,7 +720,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "800",
       "unit": "亿立方英尺",
       "uri": "https://wallstreetcn.com/calendar/US141125/overview"
     },
@@ -747,7 +789,7 @@
       "title": "10月制造业就业人口变动(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.5",
       "previous": "0.9",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121062/overview"
@@ -761,7 +803,7 @@
       "title": "10月劳动力参与率",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "61.8",
       "previous": "61.8",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US121063/overview"
@@ -817,7 +859,7 @@
       "title": "10月私营部门就业人口变动(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "6.3",
+      "forecast": "6.1",
       "previous": "4.6",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121060/overview"
@@ -831,7 +873,7 @@
       "title": "11月密歇根大学消费者信心指数初值",
       "category": "macro",
       "actual": "",
-      "forecast": "47",
+      "forecast": "48",
       "previous": "48",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151149/overview"
@@ -845,7 +887,7 @@
       "title": "11月密歇根大学消费者现况指数初值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "47",
       "previous": "46.7",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151150/overview"
@@ -859,10 +901,24 @@
       "title": "11月密歇根大学消费者预期指数初值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "48.7",
       "previous": "48.8",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151151/overview"
+    },
+    {
+      "id": "1600699",
+      "date": "2026-11-07",
+      "time": "02:00",
+      "country": "US",
+      "importance": 2,
+      "title": "11月6日当周石油钻井数",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "462",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar/US141129/overview"
     },
     {
       "id": "1597502",
@@ -873,7 +929,7 @@
       "title": "9月消费信贷变动(亿美元)",
       "category": "macro",
       "actual": "",
-      "forecast": "117.5",
+      "forecast": "130",
       "previous": "82.81",
       "unit": "亿美元",
       "uri": "https://wallstreetcn.com/calendar/US191240/overview"
@@ -1167,7 +1223,7 @@
       "title": "10月CPI环比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.3",
       "previous": "0.6",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US111044/overview"
@@ -1181,10 +1237,24 @@
       "title": "10月核心CPI环比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.2",
       "previous": "0.3",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US111045/overview"
+    },
+    {
+      "id": "15637",
+      "date": "2026-11-12",
+      "time": "00:00",
+      "country": "US",
+      "importance": 2,
+      "title": "OpenAI将终止与Cursor的合作",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "1598608",
@@ -1213,6 +1283,20 @@
       "previous": "-0.3",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/JP111746/overview"
+    },
+    {
+      "id": "15636",
+      "date": "2026-11-12",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 3,
+      "title": "百度世界2026大会，AI如何推动组织进化或是焦点",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "15613",
@@ -1265,7 +1349,7 @@
       "title": "10月成屋销售总数年化(万户)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "386",
       "previous": "399",
       "unit": "万户",
       "uri": "https://wallstreetcn.com/calendar/US161171/overview"
@@ -1279,7 +1363,7 @@
       "title": "10月成屋销售总数年化环比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "-3.4",
       "previous": "1.5",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US161172/overview"
@@ -1294,7 +1378,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "-269",
+      "previous": "-2843",
       "unit": "亿美元",
       "uri": "https://wallstreetcn.com/calendar/US181222/overview"
     },
@@ -1335,7 +1419,7 @@
       "title": "10月PPI环比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.4",
       "previous": "1.3",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US111048/overview"
@@ -1363,10 +1447,24 @@
       "title": "10月核心PPI环比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.3",
       "previous": "0.7",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US111049/overview"
+    },
+    {
+      "id": "15638",
+      "date": "2026-11-15",
+      "time": "00:00",
+      "country": "CN",
+      "importance": 4,
+      "title": "中国央行：自11月15日起上调金融机构外汇存款准备金率2个百分点",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     }
   ]
 }
