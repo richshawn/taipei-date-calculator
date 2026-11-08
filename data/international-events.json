@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T01:55:51.232660Z",
+  "updatedAt": "2026-11-08T01:26:12.401437Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-11-02",
@@ -942,7 +942,7 @@
       "importance": 4,
       "title": "10月外汇储备(亿美元)",
       "category": "macro",
-      "actual": "",
+      "actual": "34051.8",
       "forecast": "",
       "previous": "34002.5",
       "unit": "亿美元",
@@ -1047,6 +1047,20 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
+      "id": "15714",
+      "date": "2026-11-09",
+      "time": "12:02",
+      "country": "US",
+      "importance": 3,
+      "title": "本周沃勒、巴尔金等美联储官员密集发表讲话，需聚焦12月加息预期",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "15645",
       "date": "2026-11-09",
       "time": "12:02",
@@ -1117,6 +1131,20 @@
       "uri": "https://wallstreetcn.com/calendar/CN191441/overview"
     },
     {
+      "id": "15658",
+      "date": "2026-11-09",
+      "time": "23:00",
+      "country": "US",
+      "importance": 2,
+      "title": "2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "1597932",
       "date": "2026-11-09",
       "time": "23:00",
@@ -1129,6 +1157,34 @@
       "previous": "0.6",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US141115/overview"
+    },
+    {
+      "id": "15696",
+      "date": "2026-11-10",
+      "time": "01:15",
+      "country": "US",
+      "importance": 2,
+      "title": "2027年FOMC票委、里奇蒙联储主席巴尔金发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "15681",
+      "date": "2026-11-10",
+      "time": "07:50",
+      "country": "JP",
+      "importance": 3,
+      "title": "日本央行公布10月货币政策会议审议委员意见摘要。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "1598583",
@@ -1243,6 +1299,20 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
+      "id": "15666",
+      "date": "2026-11-10",
+      "time": "17:00",
+      "country": "US",
+      "importance": 3,
+      "title": "美联储理事沃勒发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "1598592",
       "date": "2026-11-10",
       "time": "19:00",
@@ -1313,6 +1383,48 @@
       "uri": "https://wallstreetcn.com/calendar/US111045/overview"
     },
     {
+      "id": "15659",
+      "date": "2026-11-10",
+      "time": "22:35",
+      "country": "US",
+      "importance": 2,
+      "title": "2026年FOMC票委、达拉斯联储主席洛根发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "15688",
+      "date": "2026-11-11",
+      "time": "02:30",
+      "country": "US",
+      "importance": 2,
+      "title": "2028年FOMC票委、堪萨斯联储主席施密德发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "15684",
+      "date": "2026-11-11",
+      "time": "07:30",
+      "country": "US",
+      "importance": 2,
+      "title": "2026年FOMC票委、费城联储主席保尔森发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "15637",
       "date": "2026-11-12",
       "time": "00:00",
@@ -1361,6 +1473,20 @@
       "country": "CN",
       "importance": 3,
       "title": "超聚变IPO，11月12日上会",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "15677",
+      "date": "2026-11-12",
+      "time": "09:30",
+      "country": "JP",
+      "importance": 2,
+      "title": "日本央行审议委员浅田统一郎发表讲话。",
       "category": "macro",
       "actual": "",
       "forecast": "",
@@ -1439,6 +1565,20 @@
       "uri": "https://wallstreetcn.com/calendar/US121056/overview"
     },
     {
+      "id": "15662",
+      "date": "2026-11-12",
+      "time": "22:00",
+      "country": "US",
+      "importance": 2,
+      "title": "2026年FOMC票委、克利夫兰联储主席哈玛克发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "1598631",
       "date": "2026-11-12",
       "time": "23:00",
@@ -1465,6 +1605,20 @@
       "previous": "1.5",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US161172/overview"
+    },
+    {
+      "id": "15697",
+      "date": "2026-11-13",
+      "time": "00:30",
+      "country": "US",
+      "importance": 2,
+      "title": "2027年FOMC票委、芝加哥联储主席古尔斯比发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "1601263",
@@ -1523,6 +1677,20 @@
       "uri": "https://wallstreetcn.com/calendar/US141123/overview"
     },
     {
+      "id": "15690",
+      "date": "2026-11-13",
+      "time": "02:10",
+      "country": "US",
+      "importance": 2,
+      "title": "2027年FOMC票委、旧金山联储主席戴利发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "1598633",
       "date": "2026-11-13",
       "time": "03:00",
@@ -1535,6 +1703,20 @@
       "previous": "-2843",
       "unit": "亿美元",
       "uri": "https://wallstreetcn.com/calendar/US181222/overview"
+    },
+    {
+      "id": "15682",
+      "date": "2026-11-13",
+      "time": "07:30",
+      "country": "US",
+      "importance": 2,
+      "title": "FOMC永久票委、纽约联储主席威廉姆斯发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "1599103",
@@ -1619,6 +1801,34 @@
       "previous": "770",
       "unit": "亿立方英尺",
       "uri": "https://wallstreetcn.com/calendar/US141125/overview"
+    },
+    {
+      "id": "15698",
+      "date": "2026-11-14",
+      "time": "00:10",
+      "country": "US",
+      "importance": 2,
+      "title": "2027年FOMC票委、旧金山联储主席戴利发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "15678",
+      "date": "2026-11-14",
+      "time": "08:00",
+      "country": "US",
+      "importance": 2,
+      "title": "美联储副主席杰斐逊发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "15638",
