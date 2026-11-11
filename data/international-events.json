@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T04:06:17.859580Z",
+  "updatedAt": "2026-11-11T01:55:37.339152Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-11-09",
@@ -347,6 +347,20 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
+      "id": "15719",
+      "date": "2026-11-10",
+      "time": "15:50",
+      "country": "US",
+      "importance": 3,
+      "title": "俄美乌三方会谈开始",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "15666",
       "date": "2026-11-10",
       "time": "17:00",
@@ -368,7 +382,7 @@
       "importance": 2,
       "title": "10月NFIB中小企业乐观程度指数",
       "category": "macro",
-      "actual": "",
+      "actual": "97.8",
       "forecast": "98.2",
       "previous": "97.9",
       "unit": "%",
@@ -410,7 +424,7 @@
       "importance": 2,
       "title": "10月CPI环比",
       "category": "macro",
-      "actual": "",
+      "actual": "0.4",
       "forecast": "0.3",
       "previous": "0.6",
       "unit": "%",
@@ -424,7 +438,7 @@
       "importance": 2,
       "title": "10月核心CPI环比",
       "category": "macro",
-      "actual": "",
+      "actual": "0.3",
       "forecast": "0.2",
       "previous": "0.3",
       "unit": "%",
