@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:55:31.556444Z",
+  "updatedAt": "2026-11-12T02:58:04.528667Z",
   "timezone": "Asia/Taipei",
   "coverage": [
     2026,
@@ -174,122 +174,170 @@
     "2027-01-01": {
       "governmentHoliday": true,
       "governmentName": "開國紀念日",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "中華民國開國紀念日"
     },
     "2027-02-04": {
       "governmentHoliday": true,
       "governmentName": "小年夜",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節"
     },
     "2027-02-05": {
       "governmentHoliday": true,
       "governmentName": "農曆除夕",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節"
     },
     "2027-02-06": {
       "governmentHoliday": true,
       "governmentName": "春節",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節"
     },
     "2027-02-07": {
       "governmentHoliday": true,
       "governmentName": "春節",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節"
     },
     "2027-02-08": {
       "governmentHoliday": true,
       "governmentName": "春節",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節"
     },
     "2027-02-09": {
       "governmentHoliday": true,
       "governmentName": "補假",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節"
     },
     "2027-02-10": {
       "governmentHoliday": true,
       "governmentName": "補假",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "農曆除夕及春節"
     },
     "2027-02-28": {
       "governmentHoliday": true,
       "governmentName": "和平紀念日",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "和平紀念日"
     },
     "2027-03-01": {
       "governmentHoliday": true,
       "governmentName": "補假",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "和平紀念日"
     },
     "2027-04-04": {
       "governmentHoliday": true,
       "governmentName": "兒童節",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "兒童節及民族掃墓節"
     },
     "2027-04-05": {
       "governmentHoliday": true,
       "governmentName": "清明節",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "兒童節及民族掃墓節"
     },
     "2027-04-06": {
       "governmentHoliday": true,
       "governmentName": "補假",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "兒童節及民族掃墓節"
     },
     "2027-04-30": {
       "governmentHoliday": true,
       "governmentName": "補假",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "勞動節"
     },
     "2027-05-01": {
       "governmentHoliday": true,
       "governmentName": "勞動節",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "勞動節"
     },
     "2027-06-09": {
       "governmentHoliday": true,
       "governmentName": "端午節",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "端午節"
     },
     "2027-09-15": {
       "governmentHoliday": true,
       "governmentName": "中秋節",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "中秋節"
     },
     "2027-09-28": {
       "governmentHoliday": true,
       "governmentName": "孔子誕辰紀念日/教師節",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "孔子誕辰紀念日/ 教師節"
     },
     "2027-10-10": {
       "governmentHoliday": true,
       "governmentName": "國慶日",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "國慶日"
     },
     "2027-10-11": {
       "governmentHoliday": true,
       "governmentName": "補假",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "國慶日"
     },
     "2027-10-25": {
       "governmentHoliday": true,
       "governmentName": "臺灣光復暨金門古寧頭大捷紀念日",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "臺灣光復暨金門古寧頭大捷紀念日"
     },
     "2027-12-24": {
       "governmentHoliday": true,
       "governmentName": "補假",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "行憲紀念日"
     },
     "2027-12-25": {
       "governmentHoliday": true,
       "governmentName": "行憲紀念日",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "行憲紀念日"
     },
     "2027-12-31": {
       "governmentHoliday": true,
       "governmentName": "補假",
-      "source": "DGPA live update"
+      "source": "DGPA live update",
+      "marketClosed": true,
+      "marketName": "117年中華民國開國紀念日"
     },
     "2026-02-12": {
       "source": "TWSE live update",
@@ -1275,6 +1323,16 @@
       "governmentHoliday": true,
       "governmentName": "政府放假日",
       "source": "DGPA live update"
+    },
+    "2027-02-02": {
+      "marketClosed": true,
+      "marketName": "市場無交易，僅辦理結算交割作業。",
+      "source": "TWSE live update"
+    },
+    "2027-02-03": {
+      "marketClosed": true,
+      "marketName": "市場無交易，僅辦理結算交割作業。",
+      "source": "TWSE live update"
     }
   }
 }
