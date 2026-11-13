@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T02:58:04.528667Z",
+  "updatedAt": "2026-11-13T02:37:56.786151Z",
   "timezone": "Asia/Taipei",
   "coverage": [
     2026,
@@ -1325,14 +1325,14 @@
       "source": "DGPA live update"
     },
     "2027-02-02": {
+      "source": "TWSE live update",
       "marketClosed": true,
-      "marketName": "市場無交易，僅辦理結算交割作業。",
-      "source": "TWSE live update"
+      "marketName": "市場無交易，僅辦理結算交割作業。"
     },
     "2027-02-03": {
+      "source": "TWSE live update",
       "marketClosed": true,
-      "marketName": "市場無交易，僅辦理結算交割作業。",
-      "source": "TWSE live update"
+      "marketName": "市場無交易，僅辦理結算交割作業。"
     }
   }
 }
