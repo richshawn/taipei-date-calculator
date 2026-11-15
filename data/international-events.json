@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T02:25:42.670302Z",
+  "updatedAt": "2026-11-15T01:54:21.521699Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-11-09",
@@ -1593,25 +1593,11 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
-      "id": "15391",
-      "date": "2026-11-18",
-      "time": "00:00",
-      "country": "CN",
-      "importance": 4,
-      "title": "普京、特朗普计划出席APEC领导人非正式会议",
-      "category": "macro",
-      "actual": "",
-      "forecast": "",
-      "previous": "",
-      "unit": "",
-      "uri": "https://wallstreetcn.com/calendar"
-    },
-    {
       "id": "15343",
       "date": "2026-11-18",
       "time": "00:00",
       "country": "CN",
-      "importance": 2,
+      "importance": 4,
       "title": "中美俄元首将于深圳APEC期间会晤？外交部：就此与相关方保持着沟通",
       "category": "macro",
       "actual": "",
@@ -1738,7 +1724,7 @@
       "time": "12:02",
       "country": "US",
       "importance": 4,
-      "title": "黄仁勋出席美国国会听证会，就绯闻作情况说明",
+      "title": "黄仁勋出席美国国会听证会",
       "category": "macro",
       "actual": "",
       "forecast": "",
