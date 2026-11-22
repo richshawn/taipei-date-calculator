@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T03:12:15.548554Z",
+  "updatedAt": "2026-11-22T02:14:01.494340Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-11-16",
@@ -1481,6 +1481,48 @@
       "uri": "https://wallstreetcn.com/calendar/JP151832/overview"
     },
     {
+      "id": "15835",
+      "date": "2026-11-24",
+      "time": "12:02",
+      "country": "CN",
+      "importance": 3,
+      "title": "中国央行：将招标发行2026年第十期和第十一期中央银行票据",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "15837",
+      "date": "2026-11-24",
+      "time": "19:30",
+      "country": "CN",
+      "importance": 4,
+      "title": "小米集团Q3电话会",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
+      "id": "15838",
+      "date": "2026-11-24",
+      "time": "20:00",
+      "country": "CN",
+      "importance": 4,
+      "title": "哔哩哔哩Q3电话会",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
+    },
+    {
       "id": "1599659",
       "date": "2026-11-24",
       "time": "22:00",
@@ -1577,6 +1619,20 @@
       "previous": "-2",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151158/overview"
+    },
+    {
+      "id": "15839",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "country": "CN",
+      "importance": 4,
+      "title": "美团Q3电话会",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "1599678",
@@ -1971,12 +2027,12 @@
       "uri": "https://wallstreetcn.com/calendar"
     },
     {
-      "id": "15832",
+      "id": "15840",
       "date": "2026-11-26",
-      "time": "12:02",
+      "time": "10:00",
       "country": "CN",
       "importance": 3,
-      "title": "2026 WAIAC世界人工智能应用大会",
+      "title": "第二十八届中国高交会开幕",
       "category": "macro",
       "actual": "",
       "forecast": "",
