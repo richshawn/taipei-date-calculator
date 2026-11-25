@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:00:34.882106Z",
+  "updatedAt": "2026-11-25T04:53:52.968335Z",
   "timezone": "Asia/Taipei",
   "coverage": {
     "start": "2026-11-23",
@@ -51,6 +51,20 @@
       "previous": "0.07",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151152/overview"
+    },
+    {
+      "id": "15847",
+      "date": "2026-11-23",
+      "time": "21:30",
+      "country": "US",
+      "importance": 2,
+      "title": "美国总统特朗普发表讲话。",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "1599232",
@@ -200,7 +214,7 @@
       "importance": 2,
       "title": "9月FHFA房价指数环比",
       "category": "macro",
-      "actual": "",
+      "actual": "0",
       "forecast": "0.2",
       "previous": "0.3",
       "unit": "%",
@@ -214,7 +228,7 @@
       "importance": 2,
       "title": "9月S&P/CS20座大城市季调后房价指数环比",
       "category": "macro",
-      "actual": "",
+      "actual": "0.13",
       "forecast": "0.2",
       "previous": "0.27",
       "unit": "%",
@@ -228,7 +242,7 @@
       "importance": 2,
       "title": "9月S&P/CS20座大城市房价指数同比",
       "category": "macro",
-      "actual": "",
+      "actual": "2.56",
       "forecast": "2.72",
       "previous": "2.65",
       "unit": "%",
@@ -242,7 +256,7 @@
       "importance": 2,
       "title": "11月谘商会消费者信心指数",
       "category": "macro",
-      "actual": "",
+      "actual": "103.3",
       "forecast": "92.1",
       "previous": "91.7",
       "unit": "",
@@ -256,7 +270,7 @@
       "importance": 2,
       "title": "11月谘商会消费者现况指数",
       "category": "macro",
-      "actual": "",
+      "actual": "132.8",
       "forecast": "121.3",
       "previous": "120.4",
       "unit": "",
@@ -270,7 +284,7 @@
       "importance": 2,
       "title": "11月谘商会消费者预期指数",
       "category": "macro",
-      "actual": "",
+      "actual": "83.6",
       "forecast": "73.4",
       "previous": "72.6",
       "unit": "",
@@ -284,11 +298,25 @@
       "importance": 2,
       "title": "11月里士满联储制造业指数",
       "category": "macro",
-      "actual": "",
+      "actual": "3",
       "forecast": "",
       "previous": "-2",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151158/overview"
+    },
+    {
+      "id": "15841",
+      "date": "2026-11-25",
+      "time": "00:00",
+      "country": "CN",
+      "importance": 3,
+      "title": "蔚来创新科技日",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "uri": "https://wallstreetcn.com/calendar"
     },
     {
       "id": "15839",
@@ -383,7 +411,7 @@
       "title": "10月个人收入环比",
       "category": "macro",
       "actual": "",
-      "forecast": "0.3",
+      "forecast": "0.4",
       "previous": "0.2",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US171197/overview"
@@ -439,7 +467,7 @@
       "title": "10月扣除飞机非国防资本耐用品订单环比初值",
       "category": "macro",
       "actual": "",
-      "forecast": "0.8",
+      "forecast": "0.7",
       "previous": "0.6",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US141109/overview"
@@ -467,7 +495,7 @@
       "title": "10月耐用品订单环比初值",
       "category": "macro",
       "actual": "",
-      "forecast": "0.5",
+      "forecast": "0.7",
       "previous": "1.9",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US141104/overview"
@@ -481,7 +509,7 @@
       "title": "11月14日当周续请失业救济人数(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "174",
       "previous": "176.3",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121056/overview"
@@ -537,7 +565,7 @@
       "title": "10月新屋销售(万户)",
       "category": "macro",
       "actual": "",
-      "forecast": "64.5",
+      "forecast": "65",
       "previous": "67.6",
       "unit": "万户",
       "uri": "https://wallstreetcn.com/calendar/US161169/overview"
@@ -551,7 +579,7 @@
       "title": "10月新屋销售环比",
       "category": "macro",
       "actual": "",
-      "forecast": "-5.3",
+      "forecast": "-3.8",
       "previous": "-0.6",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US161170/overview"
@@ -565,7 +593,7 @@
       "title": "11月20日当周EIA原油库存变动(万桶)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "200",
       "previous": "338",
       "unit": "万桶",
       "uri": "https://wallstreetcn.com/calendar/US141126/overview"
@@ -593,7 +621,7 @@
       "title": "11月20日当周EIA汽油库存变动(万桶)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "200",
       "previous": "519.2",
       "unit": "万桶",
       "uri": "https://wallstreetcn.com/calendar/US141124/overview"
@@ -607,7 +635,7 @@
       "title": "11月20日当周EIA精炼油库存变动(万桶)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "150",
       "previous": "157.1",
       "unit": "万桶",
       "uri": "https://wallstreetcn.com/calendar/US141123/overview"
@@ -635,7 +663,7 @@
       "title": "11月20日当周EIA天然气库存变动(亿立方英尺)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "-240",
       "previous": "200",
       "unit": "亿立方英尺",
       "uri": "https://wallstreetcn.com/calendar/US141125/overview"
@@ -650,7 +678,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "469",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US141129/overview"
     },
@@ -817,7 +845,7 @@
       "title": "10月商品贸易帐(亿美元)",
       "category": "macro",
       "actual": "",
-      "forecast": "-1330",
+      "forecast": "-1364",
       "previous": "-1349",
       "unit": "亿美元",
       "uri": "https://wallstreetcn.com/calendar/US131080/overview"
@@ -831,7 +859,7 @@
       "title": "10月批发库存环比初值",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.5",
       "previous": "0.7",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US141115/overview"
@@ -845,7 +873,7 @@
       "title": "10月零售库存环比",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "0.3",
       "previous": "0.3",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US171212/overview"
@@ -1070,7 +1098,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "53.7",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/JP151833/overview"
     },
@@ -1112,7 +1140,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "54.5",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151144/overview"
     },
@@ -1125,7 +1153,7 @@
       "title": "11月ISM制造业指数",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "54.9",
       "previous": "55.5",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151132/overview"
@@ -1139,7 +1167,7 @@
       "title": "10月JOLTS职位空缺(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "733.1",
       "previous": "752.3",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121074/overview"
@@ -1215,6 +1243,62 @@
       "uri": "https://wallstreetcn.com/calendar/US121065/overview"
     },
     {
+      "id": "1604873",
+      "date": "2026-12-02",
+      "time": "23:30",
+      "country": "US",
+      "importance": 2,
+      "title": "11月27日当周EIA原油库存变动(万桶)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "万桶",
+      "uri": "https://wallstreetcn.com/calendar/US141126/overview"
+    },
+    {
+      "id": "1604874",
+      "date": "2026-12-02",
+      "time": "23:30",
+      "country": "US",
+      "importance": 2,
+      "title": "11月27日当周EIA库欣地区原油库存变动(万桶)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "万桶",
+      "uri": "https://wallstreetcn.com/calendar/US141127/overview"
+    },
+    {
+      "id": "1604875",
+      "date": "2026-12-02",
+      "time": "23:30",
+      "country": "US",
+      "importance": 2,
+      "title": "11月27日当周EIA汽油库存变动(万桶)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "万桶",
+      "uri": "https://wallstreetcn.com/calendar/US141124/overview"
+    },
+    {
+      "id": "1604876",
+      "date": "2026-12-02",
+      "time": "23:30",
+      "country": "US",
+      "importance": 2,
+      "title": "11月27日当周EIA精炼油库存变动(万桶)",
+      "category": "macro",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "unit": "万桶",
+      "uri": "https://wallstreetcn.com/calendar/US141123/overview"
+    },
+    {
       "id": "1599824",
       "date": "2026-12-03",
       "time": "08:30",
@@ -1224,7 +1308,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "50.5",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/JP151834/overview"
     },
@@ -1238,7 +1322,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "51.5",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/JP151832/overview"
     },
@@ -1322,7 +1406,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "54.7",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151145/overview"
     },
@@ -1336,7 +1420,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "54.6",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151143/overview"
     },
@@ -1349,7 +1433,7 @@
       "title": "11月ISM非制造业指数",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "54.7",
       "previous": "54.5",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151138/overview"
@@ -1461,7 +1545,7 @@
       "title": "11月非农就业人口变动(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "10.1",
+      "forecast": "9",
       "previous": "16.5",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121058/overview"
@@ -1489,7 +1573,7 @@
       "title": "11月劳动力参与率",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "61.9",
       "previous": "61.9",
       "unit": "%",
       "uri": "https://wallstreetcn.com/calendar/US121063/overview"
@@ -1503,7 +1587,7 @@
       "title": "11月平均每周工时(小时)",
       "category": "macro",
       "actual": "",
-      "forecast": "",
+      "forecast": "34.4",
       "previous": "34.4",
       "unit": "小时",
       "uri": "https://wallstreetcn.com/calendar/US121069/overview"
@@ -1545,7 +1629,7 @@
       "title": "11月私营部门就业人口变动(万人)",
       "category": "macro",
       "actual": "",
-      "forecast": "9.5",
+      "forecast": "9",
       "previous": "15.9",
       "unit": "万人",
       "uri": "https://wallstreetcn.com/calendar/US121060/overview"
@@ -1560,7 +1644,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "51.5",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151149/overview"
     },
@@ -1574,7 +1658,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "49.4",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151150/overview"
     },
@@ -1588,7 +1672,7 @@
       "category": "macro",
       "actual": "",
       "forecast": "",
-      "previous": "",
+      "previous": "52.9",
       "unit": "",
       "uri": "https://wallstreetcn.com/calendar/US151151/overview"
     },
